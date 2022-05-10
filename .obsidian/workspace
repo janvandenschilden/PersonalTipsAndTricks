@@ -7,8 +7,12 @@
         "id": "831f346e6be909e5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Plants/2022-05-10_3-plants-in-neighbourhood.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plants/2022-05-10_3-plants-in-neighbourhood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,9 @@
     "collapsed": true
   },
   "active": "831f346e6be909e5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Plants/2022-05-10_3-plants-in-neighbourhood.md",
+    "README.md",
+    "www.observation.org.md"
+  ]
 }
